@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jmdevcz
-- 👀 I’m interested in c#
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on shh
-- 📫 How to reach me @lolno0 on twttr
+- Your average C# developer
+- Very bad code
+- Sometimes doing something useful
+- Very bored
 
 <!---
 jmdevcz/jmdevcz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
